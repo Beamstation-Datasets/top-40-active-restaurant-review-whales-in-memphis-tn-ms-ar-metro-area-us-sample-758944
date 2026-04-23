@@ -1,12 +1,12 @@
 {
-  "export_job_id": "964017c2-ec08-4222-b393-9064c9bae554",
+  "export_job_id": "f69c2c3e-ce86-4925-ad24-9d3156521cb2",
   "id_short": 758944,
-  "published_at": "2026-04-19T07:13:16Z",
+  "published_at": "2026-04-23T07:08:51Z",
   "repo_name": "top-40-active-restaurant-review-whales-in-memphis-tn-ms-ar-metro-area-us-sample-758944",
   "sample_asset_name": "beamstation_758944_restaurants-us-memphistnmsar_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/758944/beamstation_758944_restaurants-us-memphistnmsar_SAMPLE_DIST.csv",
-  "sample_records": 68,
-  "sample_sha256": "7a05d384f254e63426d81d07c7c5077696ecd68e60e32f9651745a3bc7721e94",
-  "sample_size_bytes": 284048,
-  "total_records": 684
+  "sample_records": 40,
+  "sample_sha256": "eb9b8d857cc5dd40e607b789f5269f1d9128295e2d05028b26baa23012ec659e",
+  "sample_size_bytes": 176138,
+  "total_records": 404
 }
