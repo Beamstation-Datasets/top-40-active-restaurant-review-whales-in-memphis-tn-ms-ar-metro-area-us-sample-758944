@@ -1,6 +1,6 @@
 # Top 40% Active Restaurant Review Whales in Memphis, TN-MS-AR Metro Area, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 87 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `758944` |
 | Location | Memphis, TN-MS-AR |
 | Category | Restaurants |
-| Full dataset size | 404 records |
-| Free sample size | 40 records (9.9%) |
-| Last export | 2026-04-22T07:44:01.833988+00:00 |
+| Full dataset size | 878 records |
+| Free sample size | 87 records (9.91%) |
+| Last export | 2026-04-29T09:31:19.516568+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-40-active-restaurant-review-whales-in-memphis-tn-ms-ar-metro-area-us-sample-758944/releases/download/sample-latest/beamstation_758944_restaurants-us-memphistnmsar_SAMPLE_DIST.csv) |
 
 ## What is in this sample
